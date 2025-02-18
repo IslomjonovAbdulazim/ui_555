@@ -24,7 +24,9 @@ class _StartPageState extends State<StartPage> {
             CupertinoButton(
               color: greyButtonColor,
               padding: EdgeInsets.zero,
-              onPressed: () {},
+              onPressed: () {
+                Navigator.pop(context);
+              },
               child: Image.asset(
                 "assets/back.png",
                 height: 30,
