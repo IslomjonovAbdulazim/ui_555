@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:ui_555/pages/home_page.dart';
 
 Color backgroundColor = Color(0xff14161B);
-Color cardColor = Color(0xff313843);
+Color cardColor = Color(0xff1C1F26);
 Color checkboxColor = Color(0xff4D546B);
 Color greyTextColor = Color(0xff616267);
 Color whiteTextColor = Color(0xffFFFFFF);
